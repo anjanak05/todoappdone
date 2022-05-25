@@ -1,0 +1,23 @@
+.todo{
+    display: flex;
+    width: 26%;
+    margin: auto;
+    justify-content: space-between;
+    border: 1px solid rgb(174, 208, 236);
+    background-color: aqua;
+    font-size: 30px;
+    padding: 0px 5px;
+}
+input, button{
+border-radius: 4px;
+width:20%;
+height: 30px;
+}
+button{
+    width: 80px;
+    height: 36px;
+    background-color: aquamarine;
+}
+.striked{
+    text-decoration: line-through;
+}
